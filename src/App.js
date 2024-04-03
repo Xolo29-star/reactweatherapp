@@ -8,7 +8,7 @@ function App() {
     
         <Weather defaultCity="New York" />
         <footer>
-          This page was coded by <a href="https://github.com/kristiinlee" target="_blank" rel="noreferrer">Kristin Jones</a> and open-sourced on <a href="https://github.com/kristiinlee/reactweatherapp" target="_blank" rel="noreferrer">Github</a>
+          This page was coded by <a href="https://github.com/Xolo29-star" target="_blank" rel="noreferrer">Noxolo Gama</a> and open-sourced on <a href="https://github.com/Xolo29-star/reactweatherapp/tree/master" target="_blank" rel="noreferrer">Github</a>
         </footer>
       </div>
     </div>
